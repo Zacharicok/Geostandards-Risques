@@ -18,7 +18,7 @@ Il oeuvre sous mandat de la **Commission Standards du Conseil National de l'Info
 
 * Le répertoire [suivi](/suivi) contient les documents de suivi du Groupe de travail : agendas, présentations, compte-rendus des réunions du groupe.
 
-* Le répertoire [standards](/standards) contient les éléments constitutifs des nouveaux standards risques en cours de rédaction.
+* Le répertoire [standards](/standards) contient les éléments constitutifs des nouveaux standards risques en cours de rédaction. blep
 
 ## Liste de diffusion
 
